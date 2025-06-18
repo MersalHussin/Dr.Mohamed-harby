@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e55f740e.css",
+    "main.js": "/static/js/main.84e45b72.js",
+    "static/media/LandBG.webp": "/static/media/LandBG.ea743a344cce9e3a410b.webp",
+    "static/media/Title-Line.svg": "/static/media/Title-Line.992aa4835e5da9ca34d3.svg",
+    "static/media/Title-Line-White.svg": "/static/media/Title-Line-White.bc0cad4f7daa27eb26d2.svg",
+    "index.html": "/index.html",
+    "main.e55f740e.css.map": "/static/css/main.e55f740e.css.map",
+    "main.84e45b72.js.map": "/static/js/main.84e45b72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e55f740e.css",
+    "static/js/main.84e45b72.js"
+  ]
+}
